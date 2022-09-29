@@ -40,7 +40,7 @@
 					mode: 'grab',
 					parallax: {
 						enable: true,
-						force: 60,
+						force: 80,
 						smooth: 10
 					}
 				},

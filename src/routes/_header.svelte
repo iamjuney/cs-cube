@@ -66,7 +66,7 @@
 					on:click={close}
 					href={link.path}
 					title={link.name}
-					class="font-medium tracking-tight text-white decoration-yellow-300 hover:underline lg:text-4xl"
+					class="font-akrobat_semibold tracking-tight text-white decoration-yellow-300 hover:underline lg:text-5xl"
 				>
 					{link.name}
 				</a>

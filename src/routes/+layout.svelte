@@ -11,7 +11,7 @@
 	<link rel="icon" type="image/ico" href="../favicon.ico" />
 </svelte:head>
 
-<main class="fixed inset-0 h-screen overflow-hidden bg-black">
+<main class="fixed inset-0 h-screen overflow-hidden bg-black font-akrobat_regular">
 	<Header />
 	<slot />
 </main>
