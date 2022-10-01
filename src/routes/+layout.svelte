@@ -1,4 +1,5 @@
 <script>
+	import InvalidViewPort from '$lib/components/InvalidViewPort.svelte';
 	import '../app.css';
 
 	import Header from './_header.svelte';
@@ -15,3 +16,4 @@
 	<Header />
 	<slot />
 </main>
+<InvalidViewPort />
