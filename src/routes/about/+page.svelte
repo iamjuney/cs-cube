@@ -10,11 +10,11 @@
 </script>
 
 <section class="custom-scrollbar relative box-border h-full w-screen overflow-scroll">
-	<div class="absolute mt-10 flex flex-col space-y-36 bg-black px-28 pb-60">
-		<div class="relative font-bold text-yellow-300 lg:text-7xl">
+	<div class="absolute mt-40 flex flex-col space-y-36 bg-black px-28 pb-60">
+		<div class="relative font-akrobat_black text-yellow-300 lg:text-7xl">
 			<h2>VSU - BS in</h2>
-			<h1 class="lg:text-9xl">COMPUTER SCIENCE</h1>
-			<h2 class="text-transparent" style="-webkit-text-stroke: 1px #e5e5e5;">STUDENTS’ SOCIETY</h2>
+			<h1 class="lg:text-8xl">COMPUTER SCIENCE</h1>
+			<h2 class="text-stroke">STUDENTS’ SOCIETY</h2>
 		</div>
 
 		<div class="relative h-full pt-40 text-white">
@@ -78,7 +78,7 @@
 					<span>CS<sup>3</sup></span>
 				</div>
 				<div class="col-span-3">
-					<div class="flex flex-col px-8">
+					<div class="flex flex-col px-8 pt-4">
 						<span class="relative inline-block h-[2px] w-full bg-yellow-300" />
 						<span>2022<sup class="text-yellow-300">©</sup></span>
 					</div>

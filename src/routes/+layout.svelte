@@ -8,7 +8,7 @@
 	<title>CS3 - Home</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
 
-	<link rel="icon" type="image/ico" href="../favicon.ico" />
+	<link rel="shortcut icon" type="image/ico" href="/favicon.png" />
 </svelte:head>
 
 <main class="fixed inset-0 h-screen overflow-hidden bg-black font-akrobat_regular">

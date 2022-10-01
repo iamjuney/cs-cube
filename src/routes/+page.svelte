@@ -18,7 +18,7 @@
 
 	<div class="absolute lg:left-28 lg:top-28">
 		<div class="relative h-52">
-			<h1 class="font-akrobat_extrabold text-yellow-300 sm:text-6xl lg:text-9xl">
+			<h1 class="font-akrobat_black text-yellow-300 sm:text-6xl lg:text-9xl">
 				CS<span class="text-stroke"><sup>3</sup></span>
 			</h1>
 		</div>
