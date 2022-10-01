@@ -25,24 +25,29 @@
 @font-face {
   font-family: "AkrobatRegular";
   src: url(lib/fonts/AkrobatRegular.woff) format("woff");
+  font-display: swap;
 }
 
 @font-face {
   font-family: "AkrobatBlack";
   src: url(lib/fonts/AkrobatBlack.woff) format("woff");
+  font-display: swap;
 }
 
 @font-face {
   font-family: "AkrobatBold";
   src: url(lib/fonts/AkrobatBold.woff) format("woff");
+  font-display: swap;
 }
 
 @font-face {
   font-family: "AkrobatExtraBold";
   src: url(lib/fonts/AkrobatExtraBold.woff) format("woff");
+  font-display: swap;
 }
 
 @font-face {
   font-family: "AkrobatSemiBold";
   src: url(lib/fonts/AkrobatSemiBold.woff) format("woff");
+  font-display: swap;
 }
