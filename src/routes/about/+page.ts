@@ -5,7 +5,7 @@ export const load = () => {
 			position: 'President',
 			first_name: 'joseph andrey',
 			last_name: 'dacera',
-			bio: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur dolorum, corporis obcaecati cupiditate facilis eligendi minus. Error laboriosam esse, ipsumet veritatis tempora maxime facilis quae, nihil, voluptate rem magni.'
+			bio: 'Hi im andrey and im the president of the club'
 		},
 		{
 			id: 2,
